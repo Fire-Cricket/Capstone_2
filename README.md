@@ -19,3 +19,6 @@ The analysis uses:
 - Jupyter Notebook
 
 This project was completed as part of the Year Up United Data Analytics Training Academy Python Capstone.
+
+Video Link:
+https://www.youtube.com/watch?v=9KQU69r0qMs&feature=youtu.be
